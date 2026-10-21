@@ -19,6 +19,8 @@ body {
 height: 150px;
 object-fit: cover;
   border-radius: 50%; /* Trik untuk membuat gambar menjadi lingkaran sempurna */
+display: block;
+margin: 0 auto 20px;
 }
 .kartu-profil {
   /* ... (kode dari slide sebelumnya) ... */
